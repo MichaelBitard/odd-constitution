@@ -31,7 +31,7 @@ Si on prend l'ordre des médecins, il codifie :
 * Quelles relations doit entretenir le docteur et ses patients
 * Quelles relations doit entretenir un docteur avec l'administration d'un hôpital par exemple
 
-Sur la partie apprentissage, La médecine prend acte que malgré des siècles de recherche, la médecine s'apprend toujours sur le terrain. La formation commence par une dose assez forte de théorie, puis l'apprenti doit observer des médecins pratiquer, puis il peut à son tour prescrire, sous le contrôle stricte d'un médecin, puis il a le droit d'être autonome.
+Sur la partie apprentissage, La médecine prend acte que malgré des siècles de recherche, la médecine s'apprend toujours sur le terrain. La formation commence par une dose assez forte de théorie, puis l'apprenti doit observer des médecins pratiquer, puis il peut à son tour prescrire, sous le contrôle strict d'un médecin, puis il a le droit d'être autonome.
 
 Dans un hôpital, historiquement les managers n'ont rien à dire aux médecins en terme de pratiques. Les médecins sont maîtres de leur profession. Les managers créent l'environnement dans lequel il est possible de soigner dans de bonnes conditions.
 
